@@ -1,10 +1,14 @@
-/*********************************************************************************** 
-* WEB422 – Assignment 06 
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this 
-* assignment has been copied manually or electronically from any other source (including web sites) or 
-* distributed to other students. 
-* 
-* Name: _JENISH RAJNIKANT PATEL_____ Student ID: ____131733206__________ Date: ___04-04-2022_____________ 
+/********************************************************************************* 
+ * WEB422 – Assignment 06 
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this 
+ * assignment has been copied manually or electronically from any other source (including web sites) or 
+ * distributed to other students. 
+ * 
+ * Name: ___JENISH RAJNIKANT PATEL____ Student ID: __131733206___ Date: _04-04-2022__
+*
+* Angular App (Deployed) Link: ____https://spotify-music-app-ruby.vercel.app/login__________
+*
+* User API (Heroku) Link: __________https://cryptic-beach-00828.herokuapp.com/______________ 
 * 
 ********************************************************************************/
 
